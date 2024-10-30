@@ -1,2 +1,2 @@
 # raspberrypi-playground
-Soem placeholder for learning raspberry pi capabilities
+Some placeholder for learning raspberry pi capabilities
